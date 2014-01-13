@@ -18,22 +18,23 @@
 #define base0E #6c71c4
 #define base0F #d33682
 
-*.foreground:   base02
+*.foreground:   base03
 *.background:   base07
 *.cursorColor:  base02
-*.color0:       base01
+
+*.color0:       base06
 *.color1:       base08
 *.color2:       base0B
 *.color3:       base0A
 *.color4:       base0D
 *.color5:       base0F
 *.color6:       base0C
-*.color7:       base06
-*.color8:       base00
+*.color7:       base01
+*.color8:       base07
 *.color9:       base09
-*.color10:      base02
-*.color11:      base03
-*.color12:      base04
+*.color10:      base05
+*.color11:      base04
+*.color12:      base03
 *.color13:      base0E
-*.color14:      base05
-*.color15:      base07
+*.color14:      base02
+*.color15:      base00
