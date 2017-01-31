@@ -20,7 +20,7 @@
 
 *.foreground:   base05
 #ifdef background_opacity
-*.background:   [background_opacity] base00
+*.background:   [background_opacity]base00
 #else
 *.background:   base00
 #endif
