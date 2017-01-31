@@ -1,0 +1,45 @@
+! Base16 Atelier Estuary
+! Scheme: Bram de Haan (http://atelierbramdehaan.nl)
+
+#define base00 #f4f3ec
+#define base01 #e7e6df
+#define base02 #929181
+#define base03 #878573
+#define base04 #6c6b5a
+#define base05 #5f5e4e
+#define base06 #302f27
+#define base07 #22221b
+#define base08 #ba6236
+#define base09 #ae7313
+#define base0A #a5980d
+#define base0B #7d9726
+#define base0C #5b9d48
+#define base0D #36a166
+#define base0E #5f9182
+#define base0F #9d6c7c
+
+*.foreground:   base05
+#ifdef background_opacity
+*.background:   [background_opacity]base00
+#else
+*.background:   base00
+#endif
+*.cursorColor:  base05
+
+*.color0:       base00
+*.color1:       base08
+*.color2:       base0B
+*.color3:       base0A
+*.color4:       base0D
+*.color5:       base0E
+*.color6:       base0C
+*.color7:       base05
+
+*.color8:       base03
+*.color9:       base09
+*.color10:      base01
+*.color11:      base02
+*.color12:      base04
+*.color13:      base06
+*.color14:      base0F
+*.color15:      base07

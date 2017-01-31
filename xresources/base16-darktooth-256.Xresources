@@ -19,7 +19,11 @@
 #define base0F #A87322
 
 *.foreground:   base05
+#ifdef background_opacity
+*.background:   [background_opacity]base00
+#else
 *.background:   base00
+#endif
 *.cursorColor:  base05
 
 *.color0:       base00

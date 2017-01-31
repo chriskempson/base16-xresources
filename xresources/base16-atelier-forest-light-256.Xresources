@@ -1,25 +1,29 @@
-! Base16 London Tube
-! Scheme: Jan T. Sott
+! Base16 Atelier Forest
+! Scheme: Bram de Haan (http://atelierbramdehaan.nl)
 
-#define base00 #231f20
-#define base01 #1c3f95
-#define base02 #5a5758
-#define base03 #737171
-#define base04 #959ca1
-#define base05 #d9d8d8
-#define base06 #e7e7e8
-#define base07 #ffffff
-#define base08 #ee2e24
-#define base09 #f386a1
-#define base0A #ffd204
-#define base0B #00853e
-#define base0C #85cebc
-#define base0D #009ddc
-#define base0E #98005d
-#define base0F #b06110
+#define base00 #f1efee
+#define base01 #e6e2e0
+#define base02 #a8a19f
+#define base03 #9c9491
+#define base04 #766e6b
+#define base05 #68615e
+#define base06 #2c2421
+#define base07 #1b1918
+#define base08 #f22c40
+#define base09 #df5320
+#define base0A #c38418
+#define base0B #7b9726
+#define base0C #3d97b8
+#define base0D #407ee7
+#define base0E #6666ea
+#define base0F #c33ff3
 
 *.foreground:   base05
+#ifdef background_opacity
+*.background:   [background_opacity]base00
+#else
 *.background:   base00
+#endif
 *.cursorColor:  base05
 
 *.color0:       base00

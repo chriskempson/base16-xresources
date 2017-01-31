@@ -1,0 +1,45 @@
+! Base16 Atelier Lakeside
+! Scheme: Bram de Haan (http://atelierbramdehaan.nl)
+
+#define base00 #ebf8ff
+#define base01 #c1e4f6
+#define base02 #7ea2b4
+#define base03 #7195a8
+#define base04 #5a7b8c
+#define base05 #516d7b
+#define base06 #1f292e
+#define base07 #161b1d
+#define base08 #d22d72
+#define base09 #935c25
+#define base0A #8a8a0f
+#define base0B #568c3b
+#define base0C #2d8f6f
+#define base0D #257fad
+#define base0E #6b6bb8
+#define base0F #b72dd2
+
+*.foreground:   base05
+#ifdef background_opacity
+*.background:   [background_opacity]base00
+#else
+*.background:   base00
+#endif
+*.cursorColor:  base05
+
+*.color0:       base00
+*.color1:       base08
+*.color2:       base0B
+*.color3:       base0A
+*.color4:       base0D
+*.color5:       base0E
+*.color6:       base0C
+*.color7:       base05
+
+*.color8:       base03
+*.color9:       base09
+*.color10:      base01
+*.color11:      base02
+*.color12:      base04
+*.color13:      base06
+*.color14:      base0F
+*.color15:      base07

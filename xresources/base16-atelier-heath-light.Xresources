@@ -1,0 +1,45 @@
+! Base16 Atelier Heath
+! Scheme: Bram de Haan (http://atelierbramdehaan.nl)
+
+#define base00 #f7f3f7
+#define base01 #d8cad8
+#define base02 #ab9bab
+#define base03 #9e8f9e
+#define base04 #776977
+#define base05 #695d69
+#define base06 #292329
+#define base07 #1b181b
+#define base08 #ca402b
+#define base09 #a65926
+#define base0A #bb8a35
+#define base0B #918b3b
+#define base0C #159393
+#define base0D #516aec
+#define base0E #7b59c0
+#define base0F #cc33cc
+
+*.foreground:   base05
+#ifdef background_opacity
+*.background:   [background_opacity]base00
+#else
+*.background:   base00
+#endif
+*.cursorColor:  base05
+
+*.color0:       base00
+*.color1:       base08
+*.color2:       base0B
+*.color3:       base0A
+*.color4:       base0D
+*.color5:       base0E
+*.color6:       base0C
+*.color7:       base05
+
+*.color8:       base03
+*.color9:       base09
+*.color10:      base01
+*.color11:      base02
+*.color12:      base04
+*.color13:      base06
+*.color14:      base0F
+*.color15:      base07

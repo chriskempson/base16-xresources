@@ -1,14 +1,14 @@
-! Base16 Harmonic16 Light
+! Base16 Harmonic16 Dark
 ! Scheme: Jannik Siebert (https://github.com/janniks)
 
-#define base00 #f7f9fb
-#define base01 #e5ebf1
-#define base02 #cbd6e2
-#define base03 #aabcce
-#define base04 #627e99
-#define base05 #405c79
-#define base06 #223b54
-#define base07 #0b1c2c
+#define base00 #0b1c2c
+#define base01 #223b54
+#define base02 #405c79
+#define base03 #627e99
+#define base04 #aabcce
+#define base05 #cbd6e2
+#define base06 #e5ebf1
+#define base07 #f7f9fb
 #define base08 #bf8b56
 #define base09 #bfbf56
 #define base0A #8bbf56
@@ -19,7 +19,11 @@
 #define base0F #bf5656
 
 *.foreground:   base05
+#ifdef background_opacity
+*.background:   [background_opacity]base00
+#else
 *.background:   base00
+#endif
 *.cursorColor:  base05
 
 *.color0:       base00

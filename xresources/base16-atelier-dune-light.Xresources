@@ -1,0 +1,45 @@
+! Base16 Atelier Dune
+! Scheme: Bram de Haan (http://atelierbramdehaan.nl)
+
+#define base00 #fefbec
+#define base01 #e8e4cf
+#define base02 #a6a28c
+#define base03 #999580
+#define base04 #7d7a68
+#define base05 #6e6b5e
+#define base06 #292824
+#define base07 #20201d
+#define base08 #d73737
+#define base09 #b65611
+#define base0A #ae9513
+#define base0B #60ac39
+#define base0C #1fad83
+#define base0D #6684e1
+#define base0E #b854d4
+#define base0F #d43552
+
+*.foreground:   base05
+#ifdef background_opacity
+*.background:   [background_opacity]base00
+#else
+*.background:   base00
+#endif
+*.cursorColor:  base05
+
+*.color0:       base00
+*.color1:       base08
+*.color2:       base0B
+*.color3:       base0A
+*.color4:       base0D
+*.color5:       base0E
+*.color6:       base0C
+*.color7:       base05
+
+*.color8:       base03
+*.color9:       base09
+*.color10:      base01
+*.color11:      base02
+*.color12:      base04
+*.color13:      base06
+*.color14:      base0F
+*.color15:      base07
