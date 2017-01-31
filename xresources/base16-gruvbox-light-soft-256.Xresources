@@ -1,25 +1,29 @@
-! Base16 IR Black
-! Scheme: Timothée Poisot (http://timotheepoisot.fr)
+! Base16 Gruvbox light, soft
+! Scheme: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
 
-#define base00 #000000
-#define base01 #242422
-#define base02 #484844
-#define base03 #6c6c66
-#define base04 #918f88
-#define base05 #b5b3aa
-#define base06 #d9d7cc
-#define base07 #fdfbee
-#define base08 #ff6c60
-#define base09 #e9c062
-#define base0A #ffffb6
-#define base0B #a8ff60
-#define base0C #c6c5fe
-#define base0D #96cbfe
-#define base0E #ff73fd
-#define base0F #b18a3d
+#define base00 #f2e5bc
+#define base01 #ebdbb2
+#define base02 #d5c4a1
+#define base03 #bdae93
+#define base04 #665c54
+#define base05 #504945
+#define base06 #3c3836
+#define base07 #282828
+#define base08 #9d0006
+#define base09 #af3a03
+#define base0A #b57614
+#define base0B #79740e
+#define base0C #427b58
+#define base0D #076678
+#define base0E #8f3f71
+#define base0F #d65d0e
 
 *.foreground:   base05
+#ifdef background_opacity
+*.background:   [background_opacity] base00
+#else
 *.background:   base00
+#endif
 *.cursorColor:  base05
 
 *.color0:       base00

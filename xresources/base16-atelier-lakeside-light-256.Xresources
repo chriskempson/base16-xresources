@@ -1,25 +1,29 @@
-! Base16 Green Screen
-! Scheme: Chris Kempson (http://chriskempson.com)
+! Base16 Atelier Lakeside
+! Scheme: Bram de Haan (http://atelierbramdehaan.nl)
 
-#define base00 #001100
-#define base01 #003300
-#define base02 #005500
-#define base03 #007700
-#define base04 #009900
-#define base05 #00bb00
-#define base06 #00dd00
-#define base07 #00ff00
-#define base08 #007700
-#define base09 #009900
-#define base0A #007700
-#define base0B #00bb00
-#define base0C #005500
-#define base0D #009900
-#define base0E #00bb00
-#define base0F #005500
+#define base00 #ebf8ff
+#define base01 #c1e4f6
+#define base02 #7ea2b4
+#define base03 #7195a8
+#define base04 #5a7b8c
+#define base05 #516d7b
+#define base06 #1f292e
+#define base07 #161b1d
+#define base08 #d22d72
+#define base09 #935c25
+#define base0A #8a8a0f
+#define base0B #568c3b
+#define base0C #2d8f6f
+#define base0D #257fad
+#define base0E #6b6bb8
+#define base0F #b72dd2
 
 *.foreground:   base05
+#ifdef background_opacity
+*.background:   [background_opacity] base00
+#else
 *.background:   base00
+#endif
 *.cursorColor:  base05
 
 *.color0:       base00

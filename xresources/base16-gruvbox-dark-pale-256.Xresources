@@ -1,25 +1,29 @@
-! Base16 London Tube
-! Scheme: Jan T. Sott
+! Base16 Gruvbox dark, pale
+! Scheme: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
 
-#define base00 #231f20
-#define base01 #1c3f95
-#define base02 #5a5758
-#define base03 #737171
-#define base04 #959ca1
-#define base05 #d9d8d8
-#define base06 #e7e7e8
-#define base07 #ffffff
-#define base08 #ee2e24
-#define base09 #f386a1
-#define base0A #ffd204
-#define base0B #00853e
-#define base0C #85cebc
-#define base0D #009ddc
-#define base0E #98005d
-#define base0F #b06110
+#define base00 #262626
+#define base01 #3a3a3a
+#define base02 #4e4e4e
+#define base03 #8a8a8a
+#define base04 #949494
+#define base05 #dab997
+#define base06 #d5c4a1
+#define base07 #ebdbb2
+#define base08 #d75f5f
+#define base09 #ff8700
+#define base0A #ffaf00
+#define base0B #afaf00
+#define base0C #85ad85
+#define base0D #83adad
+#define base0E #d485ad
+#define base0F #d65d0e
 
 *.foreground:   base05
+#ifdef background_opacity
+*.background:   [background_opacity] base00
+#else
 *.background:   base00
+#endif
 *.cursorColor:  base05
 
 *.color0:       base00
