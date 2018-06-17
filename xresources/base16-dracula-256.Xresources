@@ -3,16 +3,16 @@
 
 #define base00 #282936
 #define base01 #3a3c4e
-#define base02 #4d4f68
-#define base03 #626483
+#define base02 #626483
+#define base03 #4d4f68
 #define base04 #62d6e8
 #define base05 #e9e9f4
 #define base06 #f1f2f8
 #define base07 #f7f7fb
 #define base08 #ea51b2
 #define base09 #b45bcf
-#define base0A #00f769
-#define base0B #ebff87
+#define base0A #ebff87
+#define base0B #00f769
 #define base0C #a1efe4
 #define base0D #62d6e8
 #define base0E #b45bcf

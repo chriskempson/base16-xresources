@@ -1,22 +1,22 @@
-! Base16 Solarized Dark
-! Scheme: Ethan Schoonover (modified by aramisgithub)
+! Base16 Material Vivid
+! Scheme: joshyrobot
 
-#define base00 #002b36
-#define base01 #073642
-#define base02 #586e75
-#define base03 #657b83
-#define base04 #839496
-#define base05 #93a1a1
-#define base06 #eee8d5
-#define base07 #fdf6e3
-#define base08 #dc322f
-#define base09 #cb4b16
-#define base0A #b58900
-#define base0B #859900
-#define base0C #2aa198
-#define base0D #268bd2
-#define base0E #6c71c4
-#define base0F #d33682
+#define base00 #263238
+#define base01 #37474f
+#define base02 #455a64
+#define base03 #546e7a
+#define base04 #90a4ae
+#define base05 #b0bec5
+#define base06 #cfd8dc
+#define base07 #eceff1
+#define base08 #ff1744
+#define base09 #ff9100
+#define base0A #ffc400
+#define base0B #00e676
+#define base0C #00b0ff
+#define base0D #2979ff
+#define base0E #651fff
+#define base0F #8d6e63
 
 *foreground:   base05
 #ifdef background_opacity
