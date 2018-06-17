@@ -1,22 +1,22 @@
 ! Base16 OceanicNext
 ! Scheme: https://github.com/voronianski/oceanic-next-color-scheme
 
-#define base00 #1B2B34
-#define base01 #343D46
-#define base02 #4F5B66
-#define base03 #65737E
-#define base04 #A7ADBA
-#define base05 #C0C5CE
-#define base06 #CDD3DE
-#define base07 #D8DEE9
-#define base08 #EC5f67
-#define base09 #F99157
-#define base0A #FAC863
-#define base0B #99C794
-#define base0C #5FB3B3
-#define base0D #6699CC
-#define base0E #C594C5
-#define base0F #AB7967
+#define base00 #1b2b34
+#define base01 #343d46
+#define base02 #4f5b66
+#define base03 #65737e
+#define base04 #a7adba
+#define base05 #c0c5ce
+#define base06 #cdd3de
+#define base07 #d8dee9
+#define base08 #ec5f67
+#define base09 #f99157
+#define base0A #fac863
+#define base0B #99c794
+#define base0C #5fb3b3
+#define base0D #6699cc
+#define base0E #c594c5
+#define base0F #ab7967
 
 *foreground:   base05
 #ifdef background_opacity

@@ -9,14 +9,14 @@
 #define base05 #373b41
 #define base06 #282a2e
 #define base07 #1d1f21
-#define base08 #CC342B
-#define base09 #F96A38
-#define base0A #FBA922
+#define base08 #cc342b
+#define base09 #f96a38
+#define base0A #fba922
 #define base0B #198844
-#define base0C #3971ED
-#define base0D #3971ED
-#define base0E #A36AC7
-#define base0F #3971ED
+#define base0C #3971ed
+#define base0D #3971ed
+#define base0E #a36ac7
+#define base0F #3971ed
 
 *foreground:   base05
 #ifdef background_opacity

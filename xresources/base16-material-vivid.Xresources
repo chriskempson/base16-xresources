@@ -2,21 +2,21 @@
 ! Scheme: joshyrobot
 
 #define base00 #263238
-#define base01 #37474F
-#define base02 #455A64
-#define base03 #546E7A
-#define base04 #90A4AE
-#define base05 #B0BEC5
-#define base06 #CFD8DC
-#define base07 #ECEFF1
-#define base08 #FF1744
-#define base09 #FF9100
-#define base0A #FFC400
-#define base0B #00E676
-#define base0C #00B0FF
-#define base0D #2979FF
-#define base0E #651FFF
-#define base0F #8D6E63
+#define base01 #37474f
+#define base02 #455a64
+#define base03 #546e7a
+#define base04 #90a4ae
+#define base05 #b0bec5
+#define base06 #cfd8dc
+#define base07 #eceff1
+#define base08 #ff1744
+#define base09 #ff9100
+#define base0A #ffc400
+#define base0B #00e676
+#define base0C #00b0ff
+#define base0D #2979ff
+#define base0E #651fff
+#define base0F #8d6e63
 
 *foreground:   base05
 #ifdef background_opacity

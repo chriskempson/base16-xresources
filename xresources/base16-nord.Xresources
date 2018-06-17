@@ -1,22 +1,22 @@
 ! Base16 Nord
 ! Scheme: arcticicestudio
 
-#define base00 #2E3440
-#define base01 #3B4252
-#define base02 #434C5E
-#define base03 #4C566A
-#define base04 #D8DEE9
-#define base05 #E5E9F0
-#define base06 #ECEFF4
-#define base07 #8FBCBB
-#define base08 #88C0D0
-#define base09 #81A1C1
-#define base0A #5E81AC
-#define base0B #BF616A
-#define base0C #D08770
-#define base0D #EBCB8B
-#define base0E #A3BE8C
-#define base0F #B48EAD
+#define base00 #2e3440
+#define base01 #3b4252
+#define base02 #434c5e
+#define base03 #4c566a
+#define base04 #d8dee9
+#define base05 #e5e9f0
+#define base06 #eceff4
+#define base07 #8fbcbb
+#define base08 #88c0d0
+#define base09 #81a1c1
+#define base0A #5e81ac
+#define base0B #bf616a
+#define base0C #d08770
+#define base0D #ebcb8b
+#define base0E #a3be8c
+#define base0F #b48ead
 
 *foreground:   base05
 #ifdef background_opacity

@@ -2,7 +2,7 @@
 ! Scheme: gidsi
 
 #define base00 #1e0528
-#define base01 #1A092D
+#define base01 #1a092d
 #define base02 #331354
 #define base03 #320f55
 #define base04 #873582

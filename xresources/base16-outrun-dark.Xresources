@@ -1,22 +1,22 @@
 ! Base16 Outrun Dark
 ! Scheme: Hugo Delahousse (http://github.com/hugodelahousse/)
 
-#define base00 #00002A
-#define base01 #20204A
-#define base02 #30305A
-#define base03 #50507A
-#define base04 #B0B0DA
-#define base05 #D0D0FA
-#define base06 #E0E0FF
-#define base07 #F5F5FF
-#define base08 #FF4242
-#define base09 #FC8D28
-#define base0A #F3E877
-#define base0B #59F176
-#define base0C #0EF0F0
-#define base0D #66B0FF
-#define base0E #F10596
-#define base0F #F003EF
+#define base00 #00002a
+#define base01 #20204a
+#define base02 #30305a
+#define base03 #50507a
+#define base04 #b0b0da
+#define base05 #d0d0fa
+#define base06 #e0e0ff
+#define base07 #f5f5ff
+#define base08 #ff4242
+#define base09 #fc8d28
+#define base0A #f3e877
+#define base0B #59f176
+#define base0C #0ef0f0
+#define base0D #66b0ff
+#define base0E #f10596
+#define base0F #f003ef
 
 *foreground:   base05
 #ifdef background_opacity

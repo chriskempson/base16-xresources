@@ -1,21 +1,21 @@
 ! Base16 Embers
 ! Scheme: Jannik Siebert (https://github.com/janniks)
 
-#define base00 #16130F
-#define base01 #2C2620
-#define base02 #433B32
-#define base03 #5A5047
-#define base04 #8A8075
-#define base05 #A39A90
-#define base06 #BEB6AE
-#define base07 #DBD6D1
-#define base08 #826D57
+#define base00 #16130f
+#define base01 #2c2620
+#define base02 #433b32
+#define base03 #5a5047
+#define base04 #8a8075
+#define base05 #a39a90
+#define base06 #beb6ae
+#define base07 #dbd6d1
+#define base08 #826d57
 #define base09 #828257
-#define base0A #6D8257
-#define base0B #57826D
-#define base0C #576D82
-#define base0D #6D5782
-#define base0E #82576D
+#define base0A #6d8257
+#define base0B #57826d
+#define base0C #576d82
+#define base0D #6d5782
+#define base0E #82576d
 #define base0F #825757
 
 *foreground:   base05

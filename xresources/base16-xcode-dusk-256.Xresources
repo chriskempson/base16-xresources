@@ -1,22 +1,22 @@
 ! Base16 XCode Dusk
 ! Scheme: Elsa Gonsiorowski (https://github.com/gonsie)
 
-#define base00 #282B35
-#define base01 #3D4048
-#define base02 #53555D
-#define base03 #686A71
-#define base04 #7E8086
+#define base00 #282b35
+#define base01 #3d4048
+#define base02 #53555d
+#define base03 #686a71
+#define base04 #7e8086
 #define base05 #939599
-#define base06 #A9AAAE
-#define base07 #BEBFC2
-#define base08 #B21889
-#define base09 #786DC5
+#define base06 #a9aaae
+#define base07 #bebfc2
+#define base08 #b21889
+#define base09 #786dc5
 #define base0A #438288
-#define base0B #DF0002
-#define base0C #00A0BE
-#define base0D #790EAD
-#define base0E #B21889
-#define base0F #C77C48
+#define base0B #df0002
+#define base0C #00a0be
+#define base0D #790ead
+#define base0E #b21889
+#define base0F #c77c48
 
 *foreground:   base05
 #ifdef background_opacity

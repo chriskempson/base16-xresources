@@ -1,22 +1,22 @@
 ! Base16 Material Lighter
 ! Scheme: Nate Peterson
 
-#define base00 #FAFAFA
-#define base01 #E7EAEC
-#define base02 #CCEAE7
-#define base03 #CCD7DA
-#define base04 #8796B0
-#define base05 #80CBC4
-#define base06 #80CBC4
-#define base07 #FFFFFF
-#define base08 #FF5370
-#define base09 #F76D47
-#define base0A #FFB62C
-#define base0B #91B859
-#define base0C #39ADB5
-#define base0D #6182B8
-#define base0E #7C4DFF
-#define base0F #E53935
+#define base00 #fafafa
+#define base01 #e7eaec
+#define base02 #cceae7
+#define base03 #ccd7da
+#define base04 #8796b0
+#define base05 #80cbc4
+#define base06 #80cbc4
+#define base07 #ffffff
+#define base08 #ff5370
+#define base09 #f76d47
+#define base0A #ffb62c
+#define base0B #91b859
+#define base0C #39adb5
+#define base0D #6182b8
+#define base0E #7c4dff
+#define base0F #e53935
 
 *foreground:   base05
 #ifdef background_opacity
