@@ -5,18 +5,18 @@
 #define base01 #202020
 #define base02 #303030
 #define base03 #505050
-#define base04 #b0b0b0
-#define base05 #d0d0d0
-#define base06 #e0e0e0
-#define base07 #ffffff
-#define base08 #ff0086
-#define base09 #fd8900
-#define base0A #aba800
-#define base0B #00c918
-#define base0C #1faaaa
-#define base0D #3777e6
-#define base0E #ad00a1
-#define base0F #cc6633
+#define base04 #B0B0B0
+#define base05 #D0D0D0
+#define base06 #E0E0E0
+#define base07 #FFFFFF
+#define base08 #FF0086
+#define base09 #FD8900
+#define base0A #ABA800
+#define base0B #00C918
+#define base0C #1FAAAA
+#define base0D #3777E6
+#define base0E #AD00A1
+#define base0F #CC6633
 
 *foreground:   base05
 #ifdef background_opacity

@@ -1,22 +1,22 @@
 ! Base16 Material Palenight
 ! Scheme: Nate Peterson
 
-#define base00 #292d3e
+#define base00 #292D3E
 #define base01 #444267
-#define base02 #32374d
-#define base03 #676e95
-#define base04 #8796b0
-#define base05 #959dcb
-#define base06 #959dcb
-#define base07 #ffffff
-#define base08 #f07178
-#define base09 #f78c6c
-#define base0A #ffcb6b
-#define base0B #c3e88d
-#define base0C #89ddff
-#define base0D #82aaff
-#define base0E #c792ea
-#define base0F #ff5370
+#define base02 #32374D
+#define base03 #676E95
+#define base04 #8796B0
+#define base05 #959DCB
+#define base06 #959DCB
+#define base07 #FFFFFF
+#define base08 #F07178
+#define base09 #F78C6C
+#define base0A #FFCB6B
+#define base0B #C3E88D
+#define base0C #89DDFF
+#define base0D #82AAFF
+#define base0E #C792EA
+#define base0F #FF5370
 
 *foreground:   base05
 #ifdef background_opacity

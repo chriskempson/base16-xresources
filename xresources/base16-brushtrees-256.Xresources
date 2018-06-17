@@ -1,13 +1,13 @@
 ! Base16 Brush Trees
 ! Scheme: Abraham White &lt;abelincoln.white@gmail.com&gt;
 
-#define base00 #e3efef
-#define base01 #c9dbdc
-#define base02 #b0c5c8
-#define base03 #98afb5
-#define base04 #8299a1
-#define base05 #6d828e
-#define base06 #5a6d7a
+#define base00 #E3EFEF
+#define base01 #C9DBDC
+#define base02 #B0C5C8
+#define base03 #98AFB5
+#define base04 #8299A1
+#define base05 #6D828E
+#define base06 #5A6D7A
 #define base07 #485867
 #define base08 #b38686
 #define base09 #d8bba2

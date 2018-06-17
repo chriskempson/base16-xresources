@@ -1,0 +1,45 @@
+! Base16 Material Vivid
+! Scheme: joshyrobot
+
+#define base00 #263238
+#define base01 #37474F
+#define base02 #455A64
+#define base03 #546E7A
+#define base04 #90A4AE
+#define base05 #B0BEC5
+#define base06 #CFD8DC
+#define base07 #ECEFF1
+#define base08 #FF1744
+#define base09 #FF9100
+#define base0A #FFC400
+#define base0B #00E676
+#define base0C #00B0FF
+#define base0D #2979FF
+#define base0E #651FFF
+#define base0F #8D6E63
+
+*foreground:   base05
+#ifdef background_opacity
+*background:   [background_opacity]base00
+#else
+*background:   base00
+#endif
+*cursorColor:  base05
+
+*color0:       base00
+*color1:       base08
+*color2:       base0B
+*color3:       base0A
+*color4:       base0D
+*color5:       base0E
+*color6:       base0C
+*color7:       base05
+
+*color8:       base03
+*color9:       base09
+*color10:      base01
+*color11:      base02
+*color12:      base04
+*color13:      base06
+*color14:      base0F
+*color15:      base07

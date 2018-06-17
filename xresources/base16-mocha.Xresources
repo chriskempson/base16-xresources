@@ -1,7 +1,7 @@
 ! Base16 Mocha
 ! Scheme: Chris Kempson (http://chriskempson.com)
 
-#define base00 #3b3228
+#define base00 #3B3228
 #define base01 #534636
 #define base02 #645240
 #define base03 #7e705a

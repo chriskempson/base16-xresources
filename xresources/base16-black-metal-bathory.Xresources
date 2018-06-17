@@ -1,0 +1,45 @@
+! Base16 Black Metal (Bathory)
+! Scheme: metalelf0 (https://github.com/metalelf0)
+
+#define base00 #000000
+#define base01 #121212
+#define base02 #222222
+#define base03 #333333
+#define base04 #999999
+#define base05 #c1c1c1
+#define base06 #999999
+#define base07 #c1c1c1
+#define base08 #5f8787
+#define base09 #aaaaaa
+#define base0A #e78a53
+#define base0B #fbcb97
+#define base0C #aaaaaa
+#define base0D #888888
+#define base0E #999999
+#define base0F #444444
+
+*foreground:   base05
+#ifdef background_opacity
+*background:   [background_opacity]base00
+#else
+*background:   base00
+#endif
+*cursorColor:  base05
+
+*color0:       base00
+*color1:       base08
+*color2:       base0B
+*color3:       base0A
+*color4:       base0D
+*color5:       base0E
+*color6:       base0C
+*color7:       base05
+
+*color8:       base03
+*color9:       base09
+*color10:      base01
+*color11:      base02
+*color12:      base04
+*color13:      base06
+*color14:      base0F
+*color15:      base07

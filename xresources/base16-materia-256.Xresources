@@ -2,21 +2,21 @@
 ! Scheme: Defman21
 
 #define base00 #263238
-#define base01 #2c393f
-#define base02 #37474f
+#define base01 #2C393F
+#define base02 #37474F
 #define base03 #707880
-#define base04 #c9ccd3
-#define base05 #cdd3de
-#define base06 #d5dbe5
-#define base07 #ffffff
-#define base08 #ec5f67
-#define base09 #ea9560
-#define base0A #ffcc00
-#define base0B #8bd649
-#define base0C #80cbc4
-#define base0D #89ddff
-#define base0E #82aaff
-#define base0F #ec5f67
+#define base04 #C9CCD3
+#define base05 #CDD3DE
+#define base06 #D5DBE5
+#define base07 #FFFFFF
+#define base08 #EC5F67
+#define base09 #EA9560
+#define base0A #FFCC00
+#define base0B #8BD649
+#define base0C #80CBC4
+#define base0D #89DDFF
+#define base0E #82AAFF
+#define base0F #EC5F67
 
 *foreground:   base05
 #ifdef background_opacity

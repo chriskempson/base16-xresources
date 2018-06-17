@@ -3,13 +3,13 @@
 
 #define base00 #151718
 #define base01 #282a2b
-#define base02 #3b758c
-#define base03 #41535b
+#define base02 #3B758C
+#define base03 #41535B
 #define base04 #43a5d5
 #define base05 #d6d6d6
 #define base06 #eeeeee
 #define base07 #ffffff
-#define base08 #cd3f45
+#define base08 #Cd3f45
 #define base09 #db7b55
 #define base0A #e6cd69
 #define base0B #9fca56

@@ -1,0 +1,54 @@
+! Base16 Brogrammer
+! Scheme: Vik Ramanujam (http://github.com/piggyslasher)
+
+#define base00 #1f1f1f
+#define base01 #f81118
+#define base02 #2dc55e
+#define base03 #ecba0f
+#define base04 #2a84d2
+#define base05 #4e5ab7
+#define base06 #1081d6
+#define base07 #d6dbe5
+#define base08 #d6dbe5
+#define base09 #de352e
+#define base0A #1dd361
+#define base0B #f3bd09
+#define base0C #1081d6
+#define base0D #5350b9
+#define base0E #0f7ddb
+#define base0F #ffffff
+
+*foreground:   base05
+#ifdef background_opacity
+*background:   [background_opacity]base00
+#else
+*background:   base00
+#endif
+*cursorColor:  base05
+
+*color0:       base00
+*color1:       base08
+*color2:       base0B
+*color3:       base0A
+*color4:       base0D
+*color5:       base0E
+*color6:       base0C
+*color7:       base05
+
+*color8:       base03
+*color9:       base08
+*color10:      base0B
+*color11:      base0A
+*color12:      base0D
+*color13:      base0E
+*color14:      base0C
+*color15:      base07
+
+! Note: colors beyond 15 might not be loaded (e.g., xterm, urxvt),
+! use 'shell' template to set these if necessary
+*color16:      base09
+*color17:      base0F
+*color18:      base01
+*color19:      base02
+*color20:      base04
+*color21:      base06

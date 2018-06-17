@@ -1,22 +1,22 @@
 ! Base16 Apathy
 ! Scheme: Jannik Siebert (https://github.com/janniks)
 
-#define base00 #031a16
-#define base01 #0b342d
-#define base02 #184e45
-#define base03 #2b685e
-#define base04 #5f9c92
-#define base05 #81b5ac
-#define base06 #a7cec8
-#define base07 #d2e7e4
-#define base08 #3e9688
-#define base09 #3e7996
-#define base0A #3e4c96
-#define base0B #883e96
-#define base0C #963e4c
-#define base0D #96883e
-#define base0E #4c963e
-#define base0F #3e965b
+#define base00 #031A16
+#define base01 #0B342D
+#define base02 #184E45
+#define base03 #2B685E
+#define base04 #5F9C92
+#define base05 #81B5AC
+#define base06 #A7CEC8
+#define base07 #D2E7E4
+#define base08 #3E9688
+#define base09 #3E7996
+#define base0A #3E4C96
+#define base0B #883E96
+#define base0C #963E4C
+#define base0D #96883E
+#define base0E #4C963E
+#define base0F #3E965B
 
 *foreground:   base05
 #ifdef background_opacity

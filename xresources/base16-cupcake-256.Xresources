@@ -7,16 +7,16 @@
 #define base03 #bfb9c6
 #define base04 #a59daf
 #define base05 #8b8198
-#define base06 #72677e
+#define base06 #72677E
 #define base07 #585062
-#define base08 #d57e85
-#define base09 #ebb790
-#define base0A #dcb16c
-#define base0B #a3b367
-#define base0C #69a9a7
-#define base0D #7297b9
-#define base0E #bb99b4
-#define base0F #baa58c
+#define base08 #D57E85
+#define base09 #EBB790
+#define base0A #DCB16C
+#define base0B #A3B367
+#define base0C #69A9A7
+#define base0D #7297B9
+#define base0E #BB99B4
+#define base0F #BAA58C
 
 *foreground:   base05
 #ifdef background_opacity
