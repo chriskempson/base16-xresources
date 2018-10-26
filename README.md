@@ -1,7 +1,7 @@
 base16-xresources
 =================
 
-Base16 for Xresources
+`Base16` for Xresources
 
 ### Installation
 Add the colors to your **.Xresources**
