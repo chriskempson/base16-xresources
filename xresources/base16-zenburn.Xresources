@@ -1,10 +1,10 @@
 ! Base16 Zenburn
 ! Scheme: elnawe
 
-#define base00 #3f3f3f
+#define base00 #383838
 #define base01 #404040
 #define base02 #606060
-#define base03 #4f4f4f
+#define base03 #6f6f6f
 #define base04 #808080
 #define base05 #dcdccc
 #define base06 #c0c0c0

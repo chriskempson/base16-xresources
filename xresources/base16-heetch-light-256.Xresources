@@ -1,22 +1,22 @@
-! Base16 Solarized Dark
-! Scheme: Ethan Schoonover (modified by aramisgithub)
+! Base16 Heetch Light
+! Scheme: Geoffrey Teale (tealeg@gmail.com)
 
-#define base00 #002b36
-#define base01 #073642
-#define base02 #586e75
-#define base03 #657b83
-#define base04 #839496
-#define base05 #93a1a1
-#define base06 #eee8d5
-#define base07 #fdf6e3
-#define base08 #dc322f
-#define base09 #cb4b16
-#define base0A #b58900
-#define base0B #859900
-#define base0C #2aa198
-#define base0D #268bd2
-#define base0E #6c71c4
-#define base0F #d33682
+#define base00 #feffff
+#define base01 #392551
+#define base02 #7b6d8b
+#define base03 #9c92a8
+#define base04 #ddd6e5
+#define base05 #5a496e
+#define base06 #470546
+#define base07 #190134
+#define base08 #27d9d5
+#define base09 #bdb6c5
+#define base0A #5ba2b6
+#define base0B #f80059
+#define base0C #c33678
+#define base0D #47f9f5
+#define base0E #bd0152
+#define base0F #dedae2
 
 *foreground:   base05
 #ifdef background_opacity

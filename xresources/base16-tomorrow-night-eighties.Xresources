@@ -1,22 +1,22 @@
-! Base16 Codeschool
-! Scheme: blockloop
+! Base16 Tomorrow Night
+! Scheme: Chris Kempson (http://chriskempson.com)
 
-#define base00 #232c31
-#define base01 #1c3657
-#define base02 #2a343a
-#define base03 #3f4944
-#define base04 #84898c
-#define base05 #9ea7a6
-#define base06 #a7cfa3
-#define base07 #b5d8f6
-#define base08 #2a5491
-#define base09 #43820d
-#define base0A #a03b1e
-#define base0B #237986
-#define base0C #b02f30
-#define base0D #484d79
-#define base0E #c59820
-#define base0F #c98344
+#define base00 #2d2d2d
+#define base01 #393939
+#define base02 #515151
+#define base03 #999999
+#define base04 #b4b7b4
+#define base05 #cccccc
+#define base06 #e0e0e0
+#define base07 #ffffff
+#define base08 #f2777a
+#define base09 #f99157
+#define base0A #ffcc66
+#define base0B #99cc99
+#define base0C #66cccc
+#define base0D #6699cc
+#define base0E #cc99cc
+#define base0F #a3685a
 
 *foreground:   base05
 #ifdef background_opacity

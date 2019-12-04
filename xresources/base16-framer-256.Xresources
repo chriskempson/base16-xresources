@@ -1,22 +1,22 @@
-! Base16 Solarized Dark
-! Scheme: Ethan Schoonover (modified by aramisgithub)
+! Base16 Framer
+! Scheme: Framer (Maintained by Jesse Hoyos)
 
-#define base00 #002b36
-#define base01 #073642
-#define base02 #586e75
-#define base03 #657b83
-#define base04 #839496
-#define base05 #93a1a1
-#define base06 #eee8d5
-#define base07 #fdf6e3
-#define base08 #dc322f
-#define base09 #cb4b16
-#define base0A #b58900
-#define base0B #859900
-#define base0C #2aa198
-#define base0D #268bd2
-#define base0E #6c71c4
-#define base0F #d33682
+#define base00 #181818
+#define base01 #151515
+#define base02 #464646
+#define base03 #747474
+#define base04 #b9b9b9
+#define base05 #d0d0d0
+#define base06 #e8e8e8
+#define base07 #eeeeee
+#define base08 #fd886b
+#define base09 #fc4769
+#define base0A #fecb6e
+#define base0B #32ccdc
+#define base0C #acddfd
+#define base0D #20bcfc
+#define base0E #ba8cfc
+#define base0F #b15f4a
 
 *foreground:   base05
 #ifdef background_opacity

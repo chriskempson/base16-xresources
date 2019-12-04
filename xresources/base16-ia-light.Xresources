@@ -1,22 +1,22 @@
-! Base16 Codeschool
-! Scheme: blockloop
+! Base16 iA Light
+! Scheme: iA Inc. (modified by aramisgithub)
 
-#define base00 #232c31
-#define base01 #1c3657
-#define base02 #2a343a
-#define base03 #3f4944
-#define base04 #84898c
-#define base05 #9ea7a6
-#define base06 #a7cfa3
-#define base07 #b5d8f6
-#define base08 #2a5491
-#define base09 #43820d
-#define base0A #a03b1e
-#define base0B #237986
-#define base0C #b02f30
-#define base0D #484d79
-#define base0E #c59820
-#define base0F #c98344
+#define base00 #f6f6f6
+#define base01 #dedede
+#define base02 #bde5f2
+#define base03 #898989
+#define base04 #767676
+#define base05 #181818
+#define base06 #e8e8e8
+#define base07 #f8f8f8
+#define base08 #9c5a02
+#define base09 #c43e18
+#define base0A #c48218
+#define base0B #38781c
+#define base0C #2d6bb1
+#define base0D #48bac2
+#define base0E #a94598
+#define base0F #8b6c37
 
 *foreground:   base05
 #ifdef background_opacity

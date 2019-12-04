@@ -1,22 +1,22 @@
-! Base16 Solarized Dark
-! Scheme: Ethan Schoonover (modified by aramisgithub)
+! Base16 Gigavolt
+! Scheme: Aidan Swope (http://github.com/Whillikers)
 
-#define base00 #002b36
-#define base01 #073642
-#define base02 #586e75
-#define base03 #657b83
-#define base04 #839496
-#define base05 #93a1a1
-#define base06 #eee8d5
-#define base07 #fdf6e3
-#define base08 #dc322f
-#define base09 #cb4b16
-#define base0A #b58900
-#define base0B #859900
-#define base0C #2aa198
-#define base0D #268bd2
-#define base0E #6c71c4
-#define base0F #d33682
+#define base00 #202126
+#define base01 #2d303d
+#define base02 #5a576e
+#define base03 #a1d2e6
+#define base04 #cad3ff
+#define base05 #e9e7e1
+#define base06 #eff0f9
+#define base07 #f2fbff
+#define base08 #ff661a
+#define base09 #19f988
+#define base0A #ffdc2d
+#define base0B #f2e6a9
+#define base0C #fb6acb
+#define base0D #40bfff
+#define base0E #ae94f9
+#define base0F #6187ff
 
 *foreground:   base05
 #ifdef background_opacity

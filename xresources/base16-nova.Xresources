@@ -1,22 +1,22 @@
-! Base16 Codeschool
-! Scheme: blockloop
+! Base16 Nova
+! Scheme: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
 
-#define base00 #232c31
-#define base01 #1c3657
-#define base02 #2a343a
-#define base03 #3f4944
-#define base04 #84898c
-#define base05 #9ea7a6
-#define base06 #a7cfa3
-#define base07 #b5d8f6
-#define base08 #2a5491
-#define base09 #43820d
-#define base0A #a03b1e
-#define base0B #237986
-#define base0C #b02f30
-#define base0D #484d79
-#define base0E #c59820
-#define base0F #c98344
+#define base00 #3c4c55
+#define base01 #556873
+#define base02 #6a7d89
+#define base03 #899ba6
+#define base04 #899ba6
+#define base05 #c5d4dd
+#define base06 #899ba6
+#define base07 #556873
+#define base08 #83afe5
+#define base09 #7fc1ca
+#define base0A #a8ce93
+#define base0B #7fc1ca
+#define base0C #f2c38f
+#define base0D #83afe5
+#define base0E #9a93e1
+#define base0F #f2c38f
 
 *foreground:   base05
 #ifdef background_opacity

@@ -1,22 +1,22 @@
-! Base16 Solarized Dark
-! Scheme: Ethan Schoonover (modified by aramisgithub)
+! Base16 Espresso
+! Scheme: Alex Mirrington (https://github.com/alexmirrington)
 
-#define base00 #002b36
-#define base01 #073642
-#define base02 #586e75
-#define base03 #657b83
-#define base04 #839496
-#define base05 #93a1a1
-#define base06 #eee8d5
-#define base07 #fdf6e3
-#define base08 #dc322f
-#define base09 #cb4b16
-#define base0A #b58900
-#define base0B #859900
-#define base0C #2aa198
-#define base0D #268bd2
-#define base0E #6c71c4
-#define base0F #d33682
+#define base00 #2d2d2d
+#define base01 #393939
+#define base02 #515151
+#define base03 #777777
+#define base04 #b4b7b4
+#define base05 #cccccc
+#define base06 #e0e0e0
+#define base07 #ffffff
+#define base08 #d25252
+#define base09 #f9a959
+#define base0A #ffc66d
+#define base0B #a5c261
+#define base0C #bed6ff
+#define base0D #6c99bb
+#define base0E #d197d9
+#define base0F #f97394
 
 *foreground:   base05
 #ifdef background_opacity

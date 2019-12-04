@@ -1,22 +1,22 @@
-! Base16 Codeschool
-! Scheme: blockloop
+! Base16 Horizon Light
+! Scheme: Michaël Ball (http://github.com/michael-ball/)
 
-#define base00 #232c31
-#define base01 #1c3657
-#define base02 #2a343a
-#define base03 #3f4944
-#define base04 #84898c
-#define base05 #9ea7a6
-#define base06 #a7cfa3
-#define base07 #b5d8f6
-#define base08 #2a5491
-#define base09 #43820d
-#define base0A #a03b1e
-#define base0B #237986
-#define base0C #b02f30
-#define base0D #484d79
-#define base0E #c59820
-#define base0F #c98344
+#define base00 #fdf0ed
+#define base01 #fadad1
+#define base02 #f9cbbe
+#define base03 #bdb3b1
+#define base04 #948c8a
+#define base05 #403c3d
+#define base06 #302c2d
+#define base07 #201c1d
+#define base08 #f7939b
+#define base09 #f6661e
+#define base0A #fbe0d9
+#define base0B #94e1b0
+#define base0C #dc3318
+#define base0D #da103f
+#define base0E #1d8991
+#define base0F #e58c92
 
 *foreground:   base05
 #ifdef background_opacity

@@ -1,22 +1,22 @@
-! Base16 Codeschool
-! Scheme: blockloop
+! Base16 Edge Light
+! Scheme: Sainnhepark (https://github.com/sainnhe)
 
-#define base00 #232c31
-#define base01 #1c3657
-#define base02 #2a343a
-#define base03 #3f4944
-#define base04 #84898c
-#define base05 #9ea7a6
-#define base06 #a7cfa3
-#define base07 #b5d8f6
-#define base08 #2a5491
-#define base09 #43820d
-#define base0A #a03b1e
-#define base0B #237986
-#define base0C #b02f30
-#define base0D #484d79
-#define base0E #c59820
-#define base0F #c98344
+#define base00 #fafafa
+#define base01 #7c9f4b
+#define base02 #d69822
+#define base03 #5e646f
+#define base04 #6587bf
+#define base05 #5e646f
+#define base06 #b870ce
+#define base07 #5e646f
+#define base08 #db7070
+#define base09 #db7070
+#define base0A #d69822
+#define base0B #7c9f4b
+#define base0C #509c93
+#define base0D #6587bf
+#define base0E #b870ce
+#define base0F #509c93
 
 *foreground:   base05
 #ifdef background_opacity

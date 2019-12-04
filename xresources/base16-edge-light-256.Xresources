@@ -1,22 +1,22 @@
-! Base16 Solarized Dark
-! Scheme: Ethan Schoonover (modified by aramisgithub)
+! Base16 Edge Light
+! Scheme: Sainnhepark (https://github.com/sainnhe)
 
-#define base00 #002b36
-#define base01 #073642
-#define base02 #586e75
-#define base03 #657b83
-#define base04 #839496
-#define base05 #93a1a1
-#define base06 #eee8d5
-#define base07 #fdf6e3
-#define base08 #dc322f
-#define base09 #cb4b16
-#define base0A #b58900
-#define base0B #859900
-#define base0C #2aa198
-#define base0D #268bd2
-#define base0E #6c71c4
-#define base0F #d33682
+#define base00 #fafafa
+#define base01 #7c9f4b
+#define base02 #d69822
+#define base03 #5e646f
+#define base04 #6587bf
+#define base05 #5e646f
+#define base06 #b870ce
+#define base07 #5e646f
+#define base08 #db7070
+#define base09 #db7070
+#define base0A #d69822
+#define base0B #7c9f4b
+#define base0C #509c93
+#define base0D #6587bf
+#define base0E #b870ce
+#define base0F #509c93
 
 *foreground:   base05
 #ifdef background_opacity

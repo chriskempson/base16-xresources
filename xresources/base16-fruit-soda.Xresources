@@ -1,22 +1,22 @@
-! Base16 Codeschool
-! Scheme: blockloop
+! Base16 Fruit Soda
+! Scheme: jozip
 
-#define base00 #232c31
-#define base01 #1c3657
-#define base02 #2a343a
-#define base03 #3f4944
-#define base04 #84898c
-#define base05 #9ea7a6
-#define base06 #a7cfa3
-#define base07 #b5d8f6
-#define base08 #2a5491
-#define base09 #43820d
-#define base0A #a03b1e
-#define base0B #237986
-#define base0C #b02f30
-#define base0D #484d79
-#define base0E #c59820
-#define base0F #c98344
+#define base00 #f1ecf1
+#define base01 #e0dee0
+#define base02 #d8d5d5
+#define base03 #b5b4b6
+#define base04 #979598
+#define base05 #515151
+#define base06 #474545
+#define base07 #2d2c2c
+#define base08 #fe3e31
+#define base09 #fe6d08
+#define base0A #f7e203
+#define base0B #47f74c
+#define base0C #0f9cfd
+#define base0D #2931df
+#define base0E #611fce
+#define base0F #b16f40
 
 *foreground:   base05
 #ifdef background_opacity

@@ -1,22 +1,22 @@
-! Base16 Codeschool
-! Scheme: blockloop
+! Base16 Helios
+! Scheme: Alex Meyer (https://github.com/reyemxela)
 
-#define base00 #232c31
-#define base01 #1c3657
-#define base02 #2a343a
-#define base03 #3f4944
-#define base04 #84898c
-#define base05 #9ea7a6
-#define base06 #a7cfa3
-#define base07 #b5d8f6
-#define base08 #2a5491
-#define base09 #43820d
-#define base0A #a03b1e
-#define base0B #237986
-#define base0C #b02f30
-#define base0D #484d79
-#define base0E #c59820
-#define base0F #c98344
+#define base00 #1d2021
+#define base01 #383c3e
+#define base02 #53585b
+#define base03 #6f7579
+#define base04 #cdcdcd
+#define base05 #d5d5d5
+#define base06 #dddddd
+#define base07 #e5e5e5
+#define base08 #d72638
+#define base09 #eb8413
+#define base0A #f19d1a
+#define base0B #88b92d
+#define base0C #1ba595
+#define base0D #1e8bac
+#define base0E #be4264
+#define base0F #c85e0d
 
 *foreground:   base05
 #ifdef background_opacity

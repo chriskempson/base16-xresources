@@ -1,22 +1,22 @@
-! Base16 Solarized Dark
-! Scheme: Ethan Schoonover (modified by aramisgithub)
+! Base16 PaperColor Light
+! Scheme: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
 
-#define base00 #002b36
-#define base01 #073642
-#define base02 #586e75
-#define base03 #657b83
-#define base04 #839496
-#define base05 #93a1a1
-#define base06 #eee8d5
-#define base07 #fdf6e3
-#define base08 #dc322f
-#define base09 #cb4b16
-#define base0A #b58900
-#define base0B #859900
-#define base0C #2aa198
-#define base0D #268bd2
-#define base0E #6c71c4
-#define base0F #d33682
+#define base00 #eeeeee
+#define base01 #af0000
+#define base02 #008700
+#define base03 #5f8700
+#define base04 #0087af
+#define base05 #878787
+#define base06 #005f87
+#define base07 #444444
+#define base08 #bcbcbc
+#define base09 #d70000
+#define base0A #d70087
+#define base0B #8700af
+#define base0C #d75f00
+#define base0D #d75f00
+#define base0E #005faf
+#define base0F #005f87
 
 *foreground:   base05
 #ifdef background_opacity

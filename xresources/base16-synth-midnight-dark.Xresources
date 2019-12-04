@@ -1,22 +1,22 @@
-! Base16 Codeschool
-! Scheme: blockloop
+! Base16 Synth Midnight Dark
+! Scheme: Michaël Ball (http://github.com/michael-ball/)
 
-#define base00 #232c31
-#define base01 #1c3657
-#define base02 #2a343a
-#define base03 #3f4944
-#define base04 #84898c
-#define base05 #9ea7a6
-#define base06 #a7cfa3
-#define base07 #b5d8f6
-#define base08 #2a5491
-#define base09 #43820d
-#define base0A #a03b1e
-#define base0B #237986
-#define base0C #b02f30
-#define base0D #484d79
-#define base0E #c59820
-#define base0F #c98344
+#define base00 #040404
+#define base01 #141414
+#define base02 #242424
+#define base03 #61507a
+#define base04 #bfbbbf
+#define base05 #dfdbdf
+#define base06 #efebef
+#define base07 #fffbff
+#define base08 #b53b50
+#define base09 #e4600e
+#define base0A #dae84d
+#define base0B #06ea61
+#define base0C #7cede9
+#define base0D #03aeff
+#define base0E #ea5ce2
+#define base0F #9d4d0e
 
 *foreground:   base05
 #ifdef background_opacity

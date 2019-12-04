@@ -1,22 +1,22 @@
-! Base16 Codeschool
-! Scheme: blockloop
+! Base16 Outrun Dark
+! Scheme: Hugo Delahousse (http://github.com/hugodelahousse/)
 
-#define base00 #232c31
-#define base01 #1c3657
-#define base02 #2a343a
-#define base03 #3f4944
-#define base04 #84898c
-#define base05 #9ea7a6
-#define base06 #a7cfa3
-#define base07 #b5d8f6
-#define base08 #2a5491
-#define base09 #43820d
-#define base0A #a03b1e
-#define base0B #237986
-#define base0C #b02f30
-#define base0D #484d79
-#define base0E #c59820
-#define base0F #c98344
+#define base00 #00002a
+#define base01 #20204a
+#define base02 #30305a
+#define base03 #50507a
+#define base04 #b0b0da
+#define base05 #d0d0fa
+#define base06 #e0e0ff
+#define base07 #f5f5ff
+#define base08 #ff4242
+#define base09 #fc8d28
+#define base0A #f3e877
+#define base0B #59f176
+#define base0C #0ef0f0
+#define base0D #66b0ff
+#define base0E #f10596
+#define base0F #f003ef
 
 *foreground:   base05
 #ifdef background_opacity

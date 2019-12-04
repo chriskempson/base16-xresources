@@ -1,22 +1,22 @@
-! Base16 Codeschool
-! Scheme: blockloop
+! Base16 Sandcastle
+! Scheme: George Essig (https://github.com/gessig)
 
-#define base00 #232c31
-#define base01 #1c3657
-#define base02 #2a343a
-#define base03 #3f4944
-#define base04 #84898c
-#define base05 #9ea7a6
-#define base06 #a7cfa3
-#define base07 #b5d8f6
-#define base08 #2a5491
-#define base09 #43820d
-#define base0A #a03b1e
-#define base0B #237986
-#define base0C #b02f30
-#define base0D #484d79
-#define base0E #c59820
-#define base0F #c98344
+#define base00 #282c34
+#define base01 #2c323b
+#define base02 #3e4451
+#define base03 #665c54
+#define base04 #928374
+#define base05 #a89984
+#define base06 #d5c4a1
+#define base07 #fdf4c1
+#define base08 #83a598
+#define base09 #a07e3b
+#define base0A #a07e3b
+#define base0B #528b8b
+#define base0C #83a598
+#define base0D #83a598
+#define base0E #d75f5f
+#define base0F #a87322
 
 *foreground:   base05
 #ifdef background_opacity

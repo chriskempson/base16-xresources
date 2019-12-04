@@ -1,22 +1,22 @@
-! Base16 Solarized Dark
-! Scheme: Ethan Schoonover (modified by aramisgithub)
+! Base16 Helios
+! Scheme: Alex Meyer (https://github.com/reyemxela)
 
-#define base00 #002b36
-#define base01 #073642
-#define base02 #586e75
-#define base03 #657b83
-#define base04 #839496
-#define base05 #93a1a1
-#define base06 #eee8d5
-#define base07 #fdf6e3
-#define base08 #dc322f
-#define base09 #cb4b16
-#define base0A #b58900
-#define base0B #859900
-#define base0C #2aa198
-#define base0D #268bd2
-#define base0E #6c71c4
-#define base0F #d33682
+#define base00 #1d2021
+#define base01 #383c3e
+#define base02 #53585b
+#define base03 #6f7579
+#define base04 #cdcdcd
+#define base05 #d5d5d5
+#define base06 #dddddd
+#define base07 #e5e5e5
+#define base08 #d72638
+#define base09 #eb8413
+#define base0A #f19d1a
+#define base0B #88b92d
+#define base0C #1ba595
+#define base0D #1e8bac
+#define base0E #be4264
+#define base0F #c85e0d
 
 *foreground:   base05
 #ifdef background_opacity

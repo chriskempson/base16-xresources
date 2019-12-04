@@ -1,22 +1,22 @@
-! Base16 Solarized Dark
-! Scheme: Ethan Schoonover (modified by aramisgithub)
+! Base16 iA Light
+! Scheme: iA Inc. (modified by aramisgithub)
 
-#define base00 #002b36
-#define base01 #073642
-#define base02 #586e75
-#define base03 #657b83
-#define base04 #839496
-#define base05 #93a1a1
-#define base06 #eee8d5
-#define base07 #fdf6e3
-#define base08 #dc322f
-#define base09 #cb4b16
-#define base0A #b58900
-#define base0B #859900
-#define base0C #2aa198
-#define base0D #268bd2
-#define base0E #6c71c4
-#define base0F #d33682
+#define base00 #f6f6f6
+#define base01 #dedede
+#define base02 #bde5f2
+#define base03 #898989
+#define base04 #767676
+#define base05 #181818
+#define base06 #e8e8e8
+#define base07 #f8f8f8
+#define base08 #9c5a02
+#define base09 #c43e18
+#define base0A #c48218
+#define base0B #38781c
+#define base0C #2d6bb1
+#define base0D #48bac2
+#define base0E #a94598
+#define base0F #8b6c37
 
 *foreground:   base05
 #ifdef background_opacity

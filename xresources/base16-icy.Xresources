@@ -1,22 +1,22 @@
-! Base16 Codeschool
-! Scheme: blockloop
+! Base16 Icy Dark
+! Scheme: icyphox (https://icyphox.ga)
 
-#define base00 #232c31
-#define base01 #1c3657
-#define base02 #2a343a
-#define base03 #3f4944
-#define base04 #84898c
-#define base05 #9ea7a6
-#define base06 #a7cfa3
-#define base07 #b5d8f6
-#define base08 #2a5491
-#define base09 #43820d
-#define base0A #a03b1e
-#define base0B #237986
-#define base0C #b02f30
-#define base0D #484d79
-#define base0E #c59820
-#define base0F #c98344
+#define base00 #021012
+#define base01 #031619
+#define base02 #041f23
+#define base03 #052e34
+#define base04 #064048
+#define base05 #095b67
+#define base06 #0c7c8c
+#define base07 #109cb0
+#define base08 #16c1d9
+#define base09 #b3ebf2
+#define base0A #80deea
+#define base0B #4dd0e1
+#define base0C #26c6da
+#define base0D #00bcd4
+#define base0E #00acc1
+#define base0F #0097a7
 
 *foreground:   base05
 #ifdef background_opacity

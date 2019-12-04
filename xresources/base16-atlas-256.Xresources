@@ -1,22 +1,22 @@
-! Base16 Solarized Dark
-! Scheme: Ethan Schoonover (modified by aramisgithub)
+! Base16 Atlas
+! Scheme: Alex Lende (https://ajlende.com)
 
-#define base00 #002b36
-#define base01 #073642
-#define base02 #586e75
-#define base03 #657b83
-#define base04 #839496
-#define base05 #93a1a1
-#define base06 #eee8d5
-#define base07 #fdf6e3
-#define base08 #dc322f
-#define base09 #cb4b16
-#define base0A #b58900
-#define base0B #859900
-#define base0C #2aa198
-#define base0D #268bd2
-#define base0E #6c71c4
-#define base0F #d33682
+#define base00 #002635
+#define base01 #00384d
+#define base02 #517f8d
+#define base03 #6c8b91
+#define base04 #869696
+#define base05 #a1a19a
+#define base06 #e6e6dc
+#define base07 #fafaf8
+#define base08 #ff5a67
+#define base09 #f08e48
+#define base0A #ffcc1b
+#define base0B #7fc06e
+#define base0C #14747e
+#define base0D #5dd7b9
+#define base0E #9a70a4
+#define base0F #c43060
 
 *foreground:   base05
 #ifdef background_opacity

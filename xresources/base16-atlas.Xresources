@@ -1,22 +1,22 @@
-! Base16 Codeschool
-! Scheme: blockloop
+! Base16 Atlas
+! Scheme: Alex Lende (https://ajlende.com)
 
-#define base00 #232c31
-#define base01 #1c3657
-#define base02 #2a343a
-#define base03 #3f4944
-#define base04 #84898c
-#define base05 #9ea7a6
-#define base06 #a7cfa3
-#define base07 #b5d8f6
-#define base08 #2a5491
-#define base09 #43820d
-#define base0A #a03b1e
-#define base0B #237986
-#define base0C #b02f30
-#define base0D #484d79
-#define base0E #c59820
-#define base0F #c98344
+#define base00 #002635
+#define base01 #00384d
+#define base02 #517f8d
+#define base03 #6c8b91
+#define base04 #869696
+#define base05 #a1a19a
+#define base06 #e6e6dc
+#define base07 #fafaf8
+#define base08 #ff5a67
+#define base09 #f08e48
+#define base0A #ffcc1b
+#define base0B #7fc06e
+#define base0C #14747e
+#define base0D #5dd7b9
+#define base0E #9a70a4
+#define base0F #c43060
 
 *foreground:   base05
 #ifdef background_opacity

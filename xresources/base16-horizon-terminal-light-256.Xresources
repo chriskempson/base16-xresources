@@ -1,22 +1,22 @@
-! Base16 Solarized Dark
-! Scheme: Ethan Schoonover (modified by aramisgithub)
+! Base16 Horizon Light
+! Scheme: Michaël Ball (http://github.com/michael-ball/)
 
-#define base00 #002b36
-#define base01 #073642
-#define base02 #586e75
-#define base03 #657b83
-#define base04 #839496
-#define base05 #93a1a1
-#define base06 #eee8d5
-#define base07 #fdf6e3
-#define base08 #dc322f
-#define base09 #cb4b16
-#define base0A #b58900
-#define base0B #859900
-#define base0C #2aa198
-#define base0D #268bd2
-#define base0E #6c71c4
-#define base0F #d33682
+#define base00 #fdf0ed
+#define base01 #fadad1
+#define base02 #f9cbbe
+#define base03 #bdb3b1
+#define base04 #948c8a
+#define base05 #403c3d
+#define base06 #302c2d
+#define base07 #201c1d
+#define base08 #e95678
+#define base09 #f9cec3
+#define base0A #fadad1
+#define base0B #29d398
+#define base0C #59e1e3
+#define base0D #26bbd9
+#define base0E #ee64ac
+#define base0F #f9cbbe
 
 *foreground:   base05
 #ifdef background_opacity
